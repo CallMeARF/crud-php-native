@@ -1,0 +1,24 @@
+# Ignore IDE files
+/.idea/
+/.vscode/
+
+# Ignore log files
+*.log
+
+# Ignore cache files
+/cache/
+/tmp/
+
+# Ignore compiled PHP files
+*.php~
+*.phar
+*.lock
+*.bak
+
+# Ignore uploaded images
+/img/uploads/*
+
+# Ignore any backup files
+*~
+*.swp
+*.swo
